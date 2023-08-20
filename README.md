@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is Martin Berestovoy and I'm a student, from Argentina.</h1>
+<h1 align="center">Hi 👋! My name is Martin Berestovoy and I'm a student from Argentina.</h1>
 
 ###
 
