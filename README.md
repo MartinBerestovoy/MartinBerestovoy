@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Frameworks and AI.**
 
-- 👨‍💻 All of me is available at [my WEB!](https://martinberestovoy.github.io/Martin-Berestovoy-Web/)
+- 👨‍💻 All of me is available at [my WEB!](https://martin-berestovoy-web.vercel.app)
 
 - 📫 How to reach me **martinberestovoy@gmail.com**
 
